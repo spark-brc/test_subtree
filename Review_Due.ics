@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+UID:418fce7e-b5d4-485e-aa50-1d993ce3af77
+SEQUENCE:0
+DTSTAMP:20201005T115959Z
+DTSTART;TZID=US-Eastern:20201005
+DTEND;TZID=US-Eastern:20201006
+ORGANIZER;CN="Science of the Total Environment":MAILTO:j.scitotenv@elsevier.com
+SUMMARY:Review Due
+DESCRIPTION:Review of Modeling based groundwater adaptation policy guidelines for a me
+ tropolitan city of Pakistan under climate change\, land use change and 
+ abstraction scenarios due to Science of the Total Environment
+END:VEVENT
+END:VCALENDAR
